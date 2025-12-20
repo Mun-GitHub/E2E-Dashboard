@@ -1,0 +1,74 @@
+[
+  {
+    "name": "SPACE_MGMT",
+    "totalJourneys": 1,
+    "done": 0,
+    "inProgress": 0,
+    "notStarted": 1,
+    "coverage": 0.0
+  },
+  {
+    "name": "ASSET_MODELLING",
+    "totalJourneys": 1,
+    "done": 1,
+    "inProgress": 0,
+    "notStarted": 0,
+    "coverage": 100.0
+  },
+  {
+    "name": "METADATA_ENRICHMENT",
+    "totalJourneys": 1,
+    "done": 0,
+    "inProgress": 0,
+    "notStarted": 1,
+    "coverage": 0.0
+  },
+  {
+    "name": "SEARCH_FILTER",
+    "totalJourneys": 1,
+    "done": 0,
+    "inProgress": 0,
+    "notStarted": 1,
+    "coverage": 0.0
+  },
+  {
+    "name": "AI_SUGGESTIONS",
+    "totalJourneys": 1,
+    "done": 1,
+    "inProgress": 0,
+    "notStarted": 0,
+    "coverage": 100.0
+  },
+  {
+    "name": "LOCALIZATION",
+    "totalJourneys": 1,
+    "done": 1,
+    "inProgress": 0,
+    "notStarted": 0,
+    "coverage": 100.0
+  },
+  {
+    "name": "AM_ASSETS_WORKSPACES",
+    "totalJourneys": 15,
+    "done": 8,
+    "inProgress": 6,
+    "notStarted": 1,
+    "coverage": 53.3
+  },
+  {
+    "name": "ROLES",
+    "totalJourneys": 1,
+    "done": 1,
+    "inProgress": 0,
+    "notStarted": 0,
+    "coverage": 100.0
+  },
+  {
+    "name": "STACK_INTEGRATION",
+    "totalJourneys": 1,
+    "done": 1,
+    "inProgress": 0,
+    "notStarted": 0,
+    "coverage": 100.0
+  }
+]

@@ -1,0 +1,319 @@
+{
+  "SPACE_MGMT": [
+    {
+      "automationStatus": "In Progress",
+      "priority": "High",
+      "testType": "full-regression, smoke",
+      "journeyId": "SPACE_MGMT-001",
+      "jiraTicket": "",
+      "journeyShortDescription": "Create a new space and navigate to its asset listing page.",
+      "primaryUserGoal": "To successfully create a new space and access the asset listing page to manage folders and assets.",
+      "potentialStartingPoints": "1. User is logged into the application\n2. User is on the dashboard or home page\n3. User has access to the \"Create New\" functionality",
+      "highLevelSteps": "1. Log in to the application with valid credentials.\n2. Click on the Create New button.\n3. Enter a valid space name and description.\n4. Click on the Save button.\n5. Open the newly created space.\n6. Verify navigation to the Asset Listing page.",
+      "successOutcome": "1.Space is created successfully.\n2. User is navigated to the Asset Listing page.",
+      "tearDownSteps": "1. Delete the created space (if required for test cleanup).\n2. Remove any folders or assets created during the test execution."
+    }
+  ],
+  "ASSET_MODELLING": [
+    {
+      "automationStatus": "In Progress",
+      "priority": "High",
+      "testType": "full-regression, smoke",
+      "journeyId": "ASSET_MODELLING-001",
+      "jiraTicket": "",
+      "journeyShortDescription": "Create a new space and navigate to its asset listing page.",
+      "primaryUserGoal": "To successfully create a new space and access the asset listing page to manage folders and assets.",
+      "potentialStartingPoints": "1. User is logged into the application\n2. User is on the dashboard or home page\n3. User has access to the \"Create New\" functionality",
+      "highLevelSteps": "1. Log in to the application with valid credentials.\n2. Click on the Create New button.\n3. Enter a valid space name and description.\n4. Click on the Save button.\n5. Open the newly created space.\n6. Verify navigation to the Asset Listing page.",
+      "successOutcome": "1.Space is created successfully.\n2. User is navigated to the Asset Listing page.",
+      "tearDownSteps": "1. Delete the created space (if required for test cleanup).\n2. Remove any folders or assets created during the test execution."
+    }
+  ],
+  "METADATA_ENRICHMENT": [
+    {
+      "automationStatus": "In Progress",
+      "priority": "High",
+      "testType": "full-regression, smoke",
+      "journeyId": "METADATA_ENRICHMENT-001",
+      "jiraTicket": "",
+      "journeyShortDescription": "Create a new space and navigate to its asset listing page.",
+      "primaryUserGoal": "To successfully create a new space and access the asset listing page to manage folders and assets.",
+      "potentialStartingPoints": "1. User is logged into the application\n2. User is on the dashboard or home page\n3. User has access to the \"Create New\" functionality",
+      "highLevelSteps": "1. Log in to the application with valid credentials.\n2. Click on the Create New button.\n3. Enter a valid space name and description.\n4. Click on the Save button.\n5. Open the newly created space.\n6. Verify navigation to the Asset Listing page.",
+      "successOutcome": "1.Space is created successfully.\n2. User is navigated to the Asset Listing page.",
+      "tearDownSteps": "1. Delete the created space (if required for test cleanup).\n2. Remove any folders or assets created during the test execution."
+    }
+  ],
+  "SEARCH_FILTER": [
+    {
+      "automationStatus": "In Progress",
+      "priority": "High",
+      "testType": "full-regression, smoke",
+      "journeyId": "SEARCH_FILTER-001",
+      "jiraTicket": "",
+      "journeyShortDescription": "Create a new space and navigate to its asset listing page.",
+      "primaryUserGoal": "To successfully create a new space and access the asset listing page to manage folders and assets.",
+      "potentialStartingPoints": "1. User is logged into the application\n2. User is on the dashboard or home page\n3. User has access to the \"Create New\" functionality",
+      "highLevelSteps": "1. Log in to the application with valid credentials.\n2. Click on the Create New button.\n3. Enter a valid space name and description.\n4. Click on the Save button.\n5. Open the newly created space.\n6. Verify navigation to the Asset Listing page.",
+      "successOutcome": "1.Space is created successfully.\n2. User is navigated to the Asset Listing page.",
+      "tearDownSteps": "1. Delete the created space (if required for test cleanup).\n2. Remove any folders or assets created during the test execution."
+    }
+  ],
+  "AI_SUGGESTIONS": [
+    {
+      "automationStatus": "In Progress",
+      "priority": "High",
+      "testType": "full-regression, smoke",
+      "journeyId": "AI_SUGGESTIONS-001",
+      "jiraTicket": "",
+      "journeyShortDescription": "Create a new space and navigate to its asset listing page.",
+      "primaryUserGoal": "To successfully create a new space and access the asset listing page to manage folders and assets.",
+      "potentialStartingPoints": "1. User is logged into the application\n2. User is on the dashboard or home page\n3. User has access to the \"Create New\" functionality",
+      "highLevelSteps": "1. Log in to the application with valid credentials.\n2. Click on the Create New button.\n3. Enter a valid space name and description.\n4. Click on the Save button.\n5. Open the newly created space.\n6. Verify navigation to the Asset Listing page.",
+      "successOutcome": "1.Space is created successfully.\n2. User is navigated to the Asset Listing page.",
+      "tearDownSteps": "1. Delete the created space (if required for test cleanup).\n2. Remove any folders or assets created during the test execution."
+    }
+  ],
+  "LOCALIZATION": [
+    {
+      "automationStatus": "In Progress",
+      "priority": "High",
+      "testType": "full-regression, smoke",
+      "journeyId": "LOCALIZATION-001",
+      "jiraTicket": "",
+      "journeyShortDescription": "Create a new space and navigate to its asset listing page.",
+      "primaryUserGoal": "To successfully create a new space and access the asset listing page to manage folders and assets.",
+      "potentialStartingPoints": "1. User is logged into the application\n2. User is on the dashboard or home page\n3. User has access to the \"Create New\" functionality",
+      "highLevelSteps": "1. Log in to the application with valid credentials.\n2. Click on the Create New button.\n3. Enter a valid space name and description.\n4. Click on the Save button.\n5. Open the newly created space.\n6. Verify navigation to the Asset Listing page.",
+      "successOutcome": "1.Space is created successfully.\n2. User is navigated to the Asset Listing page.",
+      "tearDownSteps": "1. Delete the created space (if required for test cleanup).\n2. Remove any folders or assets created during the test execution."
+    }
+  ],
+  "AM_ASSETS_WORKSPACES": [
+    {
+      "automationStatus": "In Progress",
+      "priority": "High",
+      "testType": "full-regression, smoke",
+      "journeyId": "AM_ASSETS_WORKSPACES_CREATE_SPACE_VALID",
+      "jiraTicket": "",
+      "journeyShortDescription": "Create a new space and navigate to its asset listing page.",
+      "primaryUserGoal": "To successfully create a new space and access the asset listing page to manage folders and assets.",
+      "potentialStartingPoints": "1. User is logged into the application\n2. User is on the dashboard or home page\n3. User has access to the \"Create New\" functionality",
+      "highLevelSteps": "1. Log in to the application with valid credentials.\n2. Click on the Create New button.\n3. Enter a valid space name and description.\n4. Click on the Save button.\n5. Open the newly created space.\n6. Verify navigation to the Asset Listing page.",
+      "successOutcome": "1.Space is created successfully.\n2. User is navigated to the Asset Listing page.",
+      "tearDownSteps": "1. Delete the created space (if required for test cleanup).\n2. Remove any folders or assets created during the test execution."
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_GET_ASSET_TYPE_VALID",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_UPLOAD_ASSETS_FIRST_ASSET",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_UPLOAD_ASSETS_SECOND_ASSET",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_CREATE_WORKSPACE_DEV_FROM_DEFAULT",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_GET_WORKSPACE_VALID",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_UPLOAD_ASSETS_THIRD_ASSET",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_GET_ASSET_FROM_DEV_WORKSPACE",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_GET_ASSET_FROM_MAIN_WORKSPACE",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_CREATE_WORKSPACE_DEV1_FROM_DEV",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_WORKSPACE_LOCALE_VALID",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_LOCALIZE_ASSET_VALID",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_GET_ASSETS_FROM_DEV1_AFTER_LOCALIZATION",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_GET_ASSETS_FROM_DEV_AFTER_LOCALIZATION",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    },
+    {
+      "automationStatus": "",
+      "priority": "",
+      "testType": "",
+      "journeyId": "AM_ASSETS_WORKSPACES_DELETE_SPACE_VALID",
+      "jiraTicket": "",
+      "journeyShortDescription": "",
+      "primaryUserGoal": "",
+      "potentialStartingPoints": "",
+      "highLevelSteps": "",
+      "successOutcome": "",
+      "tearDownSteps": ""
+    }
+  ],
+  "ROLES": [
+    {
+      "automationStatus": "In Progress",
+      "priority": "High",
+      "testType": "full-regression, smoke",
+      "journeyId": "ROLES-001",
+      "jiraTicket": "",
+      "journeyShortDescription": "Create a new space and navigate to its asset listing page.",
+      "primaryUserGoal": "To successfully create a new space and access the asset listing page to manage folders and assets.",
+      "potentialStartingPoints": "1. User is logged into the application\n2. User is on the dashboard or home page\n3. User has access to the \"Create New\" functionality",
+      "highLevelSteps": "1. Log in to the application with valid credentials.\n2. Click on the Create New button.\n3. Enter a valid space name and description.\n4. Click on the Save button.\n5. Open the newly created space.\n6. Verify navigation to the Asset Listing page.",
+      "successOutcome": "1.Space is created successfully.\n2. User is navigated to the Asset Listing page.",
+      "tearDownSteps": "1. Delete the created space (if required for test cleanup).\n2. Remove any folders or assets created during the test execution."
+    }
+  ],
+  "STACK_INTEGRATION": [
+    {
+      "automationStatus": "In Progress",
+      "priority": "High",
+      "testType": "full-regression, smoke",
+      "journeyId": "STACK_INTEGRATION-001",
+      "jiraTicket": "",
+      "journeyShortDescription": "Create a new space and navigate to its asset listing page.",
+      "primaryUserGoal": "To successfully create a new space and access the asset listing page to manage folders and assets.",
+      "potentialStartingPoints": "1. User is logged into the application\n2. User is on the dashboard or home page\n3. User has access to the \"Create New\" functionality",
+      "highLevelSteps": "1. Log in to the application with valid credentials.\n2. Click on the Create New button.\n3. Enter a valid space name and description.\n4. Click on the Save button.\n5. Open the newly created space.\n6. Verify navigation to the Asset Listing page.",
+      "successOutcome": "1.Space is created successfully.\n2. User is navigated to the Asset Listing page.",
+      "tearDownSteps": "1. Delete the created space (if required for test cleanup).\n2. Remove any folders or assets created during the test execution."
+    }
+  ]
+}
