@@ -1,7 +1,5 @@
 # E2E-Dashboard
 
-# AM2.0 DAM E2E Test Dashboard
-
 Dashboard for visualizing automation test results for Contentstack suite of products
 
 ## Features
