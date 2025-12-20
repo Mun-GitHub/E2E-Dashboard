@@ -11,8 +11,8 @@ export const ES_CONFIG = {
     : (import.meta.env.VITE_ES_HOST || 'https://localhost:9200'),
   
   // Authentication (only needed for production - dev uses proxy)
-  username: import.meta.env.VITE_ES_USERNAME || 'admin',
-  password: import.meta.env.VITE_ES_PASSWORD || 'admin',
+  username: import.meta.env.VITE_ES_USERNAME || 'default_username',
+  password: import.meta.env.VITE_ES_PASSWORD || 'default_password',
   
   // API Key authentication (alternative to username/password)
   apiKey: import.meta.env.VITE_ES_API_KEY || '',
